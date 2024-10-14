@@ -1,0 +1,72 @@
+body{
+    background-color: black;
+    font-family: "heebo" , sans-serif;
+}
+ h2 , h3{
+    margin: 0;
+}
+
+h1{
+    color: white;
+    font-size: large;
+}
+
+h2{
+    color: rgb(6, 250, 6);
+}
+
+h3{
+    color: white;
+    font-size: small;
+}
+
+.btn {
+    text-align: center;
+}
+
+.card{
+    border: 1px solid whitesmoke;
+    margin-top: 30px;
+    border-radius: 9px;
+    padding: 35px; 
+    margin-left: 460px;
+    height: 34rem;
+    width: 20%;
+    background-color: #413c3c;
+
+}
+
+.card img{
+    border-radius: 50%;
+    width: 120px;
+    margin-left: 75px;
+}
+
+.description{
+    text-align: center;
+}
+
+.descriptionh h2{
+    color: aliceblue;
+
+}
+.btn{
+    margin: 0px;
+}
+
+.btn button{
+    color: white;
+    background-color: #333;
+    border: none;
+    border-radius: 8px;
+    width: 200px;
+    height: 40px;
+    margin-bottom: 16px;
+    font-weight: 600;
+    cursor: pointer;
+}
+button:hover{
+color: black;
+background-color: white;
+}
+
